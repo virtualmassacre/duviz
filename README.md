@@ -1,6 +1,10 @@
+'''
 curl -fsSL https://raw.githubusercontent.com/virtualmassacre/duviz/main/install.sh | sh
+'''
 
 # duviz
+
+![Duviz screenshot](misc/example.png)
 
 Duviz shows what is taking up space in a folder so you can clean up without guesswork. It draws a live, clickable map of your disk so big items stand out and you can move up and down the tree quickly.
 
