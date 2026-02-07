@@ -36,6 +36,20 @@ This installs the latest release to `/usr/local/bin/duviz` (run with sudo):
 curl -fsSL https://raw.githubusercontent.com/hexajohnny/duviz/main/install.sh | sudo sh
 ```
 
+## Run After Install
+
+Run it in the folder you want to analyze:
+
+```
+sudo duviz
+```
+
+Or pass a path directly:
+
+```
+sudo duviz /path/to/folder
+```
+
 ## Build From Source
 
 ```
