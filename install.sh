@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 set -eu
 
-REPO="virtualmassacre/duviz"
+REPO="hexajohnny/duviz"
 ASSET_NAME="duviz-linux-x86_64.zip"
 
 if ! command -v curl >/dev/null 2>&1; then

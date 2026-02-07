@@ -1,5 +1,5 @@
 '''
-curl -fsSL https://raw.githubusercontent.com/virtualmassacre/duviz/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/hexajohnny/duviz/main/install.sh | sh
 '''
 
 # duviz
@@ -37,7 +37,7 @@ Duviz looks at the folder you open it in and adds up the sizes of the things ins
 This installs the latest release to `/usr/local/bin/duviz`:
 
 ```
-curl -fsSL https://raw.githubusercontent.com/virtualmassacre/duviz/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/hexajohnny/duviz/main/install.sh | sh
 ```
 
 ## Build From Source
